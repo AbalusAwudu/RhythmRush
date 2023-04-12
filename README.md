@@ -19,7 +19,7 @@ All black
 
 # Lightbulb/Bomb/Barrel
 Glass/Bucket      : rgb(189, 255, 255) <br/>
-Outline/Bom       : Black <br/>
+Outline/Bomb      : Black <br/>
 Bomb Fuse         : rgb(255, 255, 0) Yellow <br/>
 Bomb Fuse 2       : rgb(255, 255, 0) Red <br/>
 Barrel            : rgb(123, 82, 74) Brown
