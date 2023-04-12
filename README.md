@@ -4,9 +4,9 @@ ECE 385 final project by Abalus Awudu and Xander Kick
 ## Pixel Colors for Different Components
 
 # Karate Joe
-Most of Body      : rgb(115, 173, 222)
-Highlight of Body : rgb(189, 255, 255)
-Outline           : rgb(0, 0, 0) Black
+Most of Body      : rgb(115, 173, 222) <br/>
+Highlight of Body : rgb(189, 255, 255) <br/>
+Outline           : rgb(0, 0, 0) Black <br/>
 Blush on Cheeks   : rgb(252, 100, 214)
 Teeth             : rgb(255, 255, 255) White
 
